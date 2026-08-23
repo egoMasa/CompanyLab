@@ -1435,14 +1435,14 @@ interface GigabitEthernet1/3
 interface GigabitEthernet0/0
  description L3-ROUTED - vers FW-1 em4
  no switchport
- ip address 10.0.30.1 255.255.255.254
+ ip address 10.0.30.2 255.255.255.252
  ip ospf network point-to-point
  no shutdown
 !
 interface GigabitEthernet0/1
  description L3-ROUTED - vers FW-2 em4
  no switchport
- ip address 10.0.30.5 255.255.255.254
+ ip address 10.0.30.10 255.255.255.252
  ip ospf network point-to-point
  no shutdown
 !
@@ -1462,10 +1462,10 @@ router ospf 1
  network 10.0.40.2 0.0.0.1 area 0
  network 10.0.40.4 0.0.0.1 area 0
  network 10.0.40.6 0.0.0.1 area 0
- network 10.0.30.0 0.0.0.1 area 0
- network 10.0.30.4 0.0.0.1 area 0
+ network 10.0.30.0 0.0.0.3 area 0 
+ network 10.0.30.8 0.0.0.3 area 0
 !
-username admin privilege 15 secret VOTRE_MDP_FORT
+username admin privilege 15 secret azerty
 ip ssh version 2
 !
 line con 0
@@ -1549,14 +1549,14 @@ interface GigabitEthernet1/3
 interface GigabitEthernet0/0
  description L3-ROUTED - vers FW-1 em5
  no switchport
- ip address 10.0.30.3 255.255.255.254
+ ip address 10.0.30.6 255.255.255.252
  ip ospf network point-to-point
  no shutdown
 !
 interface GigabitEthernet0/1
  description L3-ROUTED - vers FW-2 em5
  no switchport
- ip address 10.0.30.7 255.255.255.254
+ ip address 10.0.30.14 255.255.255.252
  ip ospf network point-to-point
  no shutdown
 !
@@ -1576,10 +1576,10 @@ router ospf 1
  network 10.0.40.10 0.0.0.1 area 0
  network 10.0.40.12 0.0.0.1 area 0
  network 10.0.40.14 0.0.0.1 area 0
- network 10.0.30.2 0.0.0.1 area 0
- network 10.0.30.6 0.0.0.1 area 0
+ network 10.0.30.4 0.0.0.3 area 0
+ network 10.0.30.12 0.0.0.3 area 0
 !
-username admin privilege 15 secret VOTRE_MDP_FORT
+username admin privilege 15 secret azerty
 ip ssh version 2
 !
 line con 0
