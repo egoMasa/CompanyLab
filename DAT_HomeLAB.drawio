@@ -109,6 +109,15 @@
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;- VLAN 10 : USERS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- VLAN 20 : MGMT&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="150.03" x="-385.35" y="1670" as="geometry" />
         </mxCell>
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV-MGMT" vertex="1">
+          <mxGeometry height="30" width="60" x="-220" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV1" vertex="1">
+          <mxGeometry height="30" width="60" x="-110.5" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV2" vertex="1">
+          <mxGeometry height="30" width="60" x="-1" y="1100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
