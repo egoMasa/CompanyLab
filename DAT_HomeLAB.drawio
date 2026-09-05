@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" pages="13">
   <diagram id="FsuLgVzaCtvRtHIY9WPv" name="Architecture simple">
-    <mxGraphModel dx="3068" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3318" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dOByKPCYZ1pIK6Gz-30r-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;opacity=50;" value="" vertex="1">
-          <mxGeometry height="380" width="604.37" x="-380.03" y="1030" as="geometry" />
+          <mxGeometry height="320" width="604.37" x="-380.03" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="oMdlzZE_yPhhIWHdZW28-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;opacity=50;" value="" vertex="1">
-          <mxGeometry height="375" width="615" x="-385.35" y="1670" as="geometry" />
+          <mxGeometry height="285" width="615" x="-385.35" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="BiKCGtpXbIZ827-lqV7h-134" edge="1" parent="1" source="BiKCGtpXbIZ827-lqV7h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BiKCGtpXbIZ827-lqV7h-133">
           <mxGeometry relative="1" as="geometry" />
@@ -118,9 +118,6 @@
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN X" vertex="1">
           <mxGeometry height="30" width="60" x="-113" y="1842.5" as="geometry" />
         </mxCell>
-        <mxCell id="qoYo3ITBcP1gMu3aPDU7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;- VLAN/SVI 100 : INFRA :&amp;nbsp;&lt;div&gt;- VLAN/SVI 110 : INTRA&lt;/div&gt;&lt;div&gt;- VLAN/SVI 120 : MGMT&lt;/div&gt;&lt;div&gt;- VLAN/SVI 130 : DMZ&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="150.03" x="-380.03" y="1340" as="geometry" />
-        </mxCell>
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV-MGMT" vertex="1">
           <mxGeometry height="30" width="60" x="-212.65" y="1100" as="geometry" />
         </mxCell>
@@ -131,7 +128,7 @@
           <mxGeometry height="30" width="60" x="-1" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-11" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
-          <mxGeometry height="160" width="530" x="-970" y="1790" as="geometry" />
+          <mxGeometry height="160" width="530" x="-950" y="1828" as="geometry" />
         </mxCell>
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-12" parent="qoYo3ITBcP1gMu3aPDU7-11" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="40" width="530" as="geometry" />
@@ -246,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-64" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
-          <mxGeometry height="200" width="530" x="-970" y="1140" as="geometry" />
+          <mxGeometry height="200" width="530" x="-940" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-65" parent="qoYo3ITBcP1gMu3aPDU7-64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="40" width="530" as="geometry" />
