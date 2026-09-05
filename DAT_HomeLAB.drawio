@@ -770,8 +770,8 @@
             <mxPoint x="437.88" y="148" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Spx-P1e5gUSwLe5Kc17M-45" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="ToR Leaf (VTEP)" vertex="1">
-          <mxGeometry height="28" width="59.5" x="752" y="46" as="geometry" />
+        <mxCell id="Spx-P1e5gUSwLe5Kc17M-45" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="ToR Leaf" vertex="1">
+          <mxGeometry height="28" width="59.5" x="752" y="50" as="geometry" />
         </mxCell>
         <mxCell id="Z8ezAOmdvmSTuJNEQ20B-3" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;" value="" vertex="1">
           <mxGeometry height="18.8" width="71.6" x="681.0799999999999" y="-53" as="geometry" />
