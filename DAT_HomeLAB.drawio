@@ -118,6 +118,9 @@
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;- VLAN 10 : INFRA&lt;br&gt;&lt;div&gt;- VLAN 20 : INTRA&lt;/div&gt;&lt;div&gt;- VLAN 30 : MGMT&lt;/div&gt;&lt;div&gt;- VLAN 40 : DMZ&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="150.03" x="-380.03" y="1340" as="geometry" />
         </mxCell>
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;- VLAN 10 : USERS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- VLAN 20 : MGMT&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150.03" x="-385.35" y="1670" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
