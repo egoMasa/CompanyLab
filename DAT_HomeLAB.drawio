@@ -109,6 +109,12 @@
         <mxCell id="dOByKPCYZ1pIK6Gz-30r-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".3" vertex="1">
           <mxGeometry height="30" width="20" x="-20" y="1892" as="geometry" />
         </mxCell>
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN X" vertex="1">
+          <mxGeometry height="30" width="60" x="-2.6599999999999966" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN X" vertex="1">
+          <mxGeometry height="30" width="60" x="-113" y="1842.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
