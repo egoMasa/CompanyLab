@@ -94,7 +94,7 @@
         <mxCell id="BiKCGtpXbIZ827-lqV7h-144" parent="1" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.hyper_v_host;" value="" vertex="1">
           <mxGeometry height="70" width="74.69" x="-220" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="BiKCGtpXbIZ827-lqV7h-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NET1 192.168.122.0/24" vertex="1">
+        <mxCell id="BiKCGtpXbIZ827-lqV7h-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.122.0/24" vertex="1">
           <mxGeometry height="30" width="140" x="160" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="dOByKPCYZ1pIK6Gz-30r-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".2" vertex="1">
