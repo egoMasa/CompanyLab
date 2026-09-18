@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="13">
+<mxfile host="app.diagrams.net" pages="14">
   <diagram id="FsuLgVzaCtvRtHIY9WPv" name="Architecture simple">
     <mxGraphModel dx="3674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3364,6 +3364,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_He_KiCfg9mLBTsZbCiE" name="Plateforme DevSecOps">
+    <mxGraphModel dx="2241" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="170" x="-60" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-2" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171048.png;" value="" vertex="1">
+          <mxGeometry height="84" width="84" x="-17" y="312.51" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dashboards" vertex="1">
+          <mxGeometry height="30" width="145" x="-45" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Graphiques" vertex="1">
+          <mxGeometry height="30" width="145" x="-45" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Statistiques" vertex="1">
+          <mxGeometry height="30" width="145" x="-45" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Heatmap" vertex="1">
+          <mxGeometry height="30" width="145" x="-45" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alerting" vertex="1">
+          <mxGeometry height="30" width="145" x="-45" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="170" x="730" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-9" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171048.png;" value="" vertex="1">
+          <mxGeometry height="84" width="84" x="773" y="312.51" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dashboards" vertex="1">
+          <mxGeometry height="30" width="145" x="745" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Graphiques" vertex="1">
+          <mxGeometry height="30" width="145" x="745" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Statistiques" vertex="1">
+          <mxGeometry height="30" width="145" x="745" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Heatmap" vertex="1">
+          <mxGeometry height="30" width="145" x="745" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFXAJlS4doXY85Y0jZq-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alerting" vertex="1">
+          <mxGeometry height="30" width="145" x="745" y="540" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
