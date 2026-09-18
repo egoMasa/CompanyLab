@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="13">
   <diagram id="FsuLgVzaCtvRtHIY9WPv" name="Architecture simple">
-    <mxGraphModel dx="3318" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,12 +36,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiKCGtpXbIZ827-lqV7h-151" edge="1" parent="1" source="Jgr8ny01mIAxgBXv6dai-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="BiKCGtpXbIZ827-lqV7h-144">
+        <mxCell id="BiKCGtpXbIZ827-lqV7h-151" edge="1" parent="1" source="Jgr8ny01mIAxgBXv6dai-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="BiKCGtpXbIZ827-lqV7h-144" value="tr">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-80.00000000000045" y="1310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qoYo3ITBcP1gMu3aPDU7-10" connectable="0" parent="BiKCGtpXbIZ827-lqV7h-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=45;" value="ACCESS MGMT" vertex="1">
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-10" connectable="0" parent="BiKCGtpXbIZ827-lqV7h-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=45;" value="Trunk" vertex="1">
           <mxGeometry relative="1" x="0.1605" y="2" as="geometry">
             <mxPoint x="6" as="offset" />
           </mxGeometry>
@@ -112,13 +112,13 @@
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN X" vertex="1">
           <mxGeometry height="30" width="60" x="-113" y="1842.5" as="geometry" />
         </mxCell>
-        <mxCell id="qoYo3ITBcP1gMu3aPDU7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV-MGMT" vertex="1">
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV3" vertex="1">
           <mxGeometry height="30" width="60" x="-212.65" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="qoYo3ITBcP1gMu3aPDU7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV1" vertex="1">
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV2" vertex="1">
           <mxGeometry height="30" width="60" x="-110.5" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="qoYo3ITBcP1gMu3aPDU7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV2" vertex="1">
+        <mxCell id="qoYo3ITBcP1gMu3aPDU7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HV1" vertex="1">
           <mxGeometry height="30" width="60" x="-1" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="qoYo3ITBcP1gMu3aPDU7-11" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
