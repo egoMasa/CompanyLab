@@ -909,10 +909,16 @@
           <mxGeometry height="60" width="170" x="160" y="230" as="geometry" />
         </mxCell>
         <mxCell id="yYewmnsVCgbQIUC936Zf-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Git : source de vérité" vertex="1">
-          <mxGeometry height="60" width="220" x="550" y="330" as="geometry" />
+          <mxGeometry height="60" width="220" x="800" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="yYewmnsVCgbQIUC936Zf-13" edge="1" parent="1" source="yYewmnsVCgbQIUC936Zf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yYewmnsVCgbQIUC936Zf-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yYewmnsVCgbQIUC936Zf-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Infra/OS : Semaphore/AWX : Plateforme d&#39;automatisation" vertex="1">
           <mxGeometry height="60" width="220" x="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yYewmnsVCgbQIUC936Zf-14" edge="1" parent="1" source="yYewmnsVCgbQIUC936Zf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yYewmnsVCgbQIUC936Zf-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yYewmnsVCgbQIUC936Zf-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Applicatif : Komodo(Compose)/ArgoCD (K8s)" vertex="1">
           <mxGeometry height="60" width="220" x="550" y="470" as="geometry" />
